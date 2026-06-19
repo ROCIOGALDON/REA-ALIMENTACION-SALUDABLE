@@ -1,0 +1,1505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260619193202W05B5D</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260619193202ECHQZ9</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>ALIMENTACIÓN SALUDABLE</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>ROCÍO GALDÓN ÁLVAREZ</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Material formativo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781890252932</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1780762664973-b3x9wpx5v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780762664973-b3x9wpx5v</odePageId>
+      <odeBlockId>block-1780764408071-l63wpv1sw</odeBlockId>
+      <blockName>&quot;Aprendemos a comer sano: hábitos de alimentación saludable en alumnado TEA”</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780762664973-b3x9wpx5v</odePageId>
+          <odeBlockId>block-1780764408071-l63wpv1sw</odeBlockId>
+          <odeIdeviceId>idevice-1780764408068-rf4ltpqpe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Los alumnos del <span style="color: #b96ad9;"><strong>Aula TEA</strong></span> del CEIP Nuestra Señora del Rosario de Los Villares (Jaén) trabajará una tarea una sobre la<span style="color: #b96ad9;"> <strong>alimentación saludable</strong></span>, con el objetivo de que el alumnado conozca la importancia de mantener hábitos alimenticios adecuados para cuidar su salud y bienestar. A través de actividades adaptadas y dinámicas, aprenderán a identificar los diferentes grupos de alimentos y a seleccionar opciones saludables para su día a día. Como <span style="color: #b96ad9;"><strong>producto final,</strong></span> cada alumno elaborará un plato saludable del recetario común, representando de forma visual una comida equilibrada que incluya los principales nutrientes necesarios para una alimentación sana.</p>
+<p><img src="{{context_path}}/content/resources/alimento saludable (2).png" width="138" height="138" alt="" />  <img src="{{context_path}}/content/resources/plato.png" width="185" height="185" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780764408068-rf4ltpqpe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Los alumnos del <span style=\"color: #b96ad9;\"><strong>Aula TEA</strong></span> del CEIP Nuestra Señora del Rosario de Los Villares (Jaén) trabajará una tarea una sobre la<span style=\"color: #b96ad9;\"> <strong>alimentación saludable</strong></span>, con el objetivo de que el alumnado conozca la importancia de mantener hábitos alimenticios adecuados para cuidar su salud y bienestar. A través de actividades adaptadas y dinámicas, aprenderán a identificar los diferentes grupos de alimentos y a seleccionar opciones saludables para su día a día. Como <span style=\"color: #b96ad9;\"><strong>producto final,</strong></span> cada alumno elaborará un plato saludable del recetario común, representando de forma visual una comida equilibrada que incluya los principales nutrientes necesarios para una alimentación sana.</p>\n<p><img src=\"{{context_path}}/content/resources/alimento saludable (2).png\" width=\"138\" height=\"138\" alt=\"\" />  <img src=\"{{context_path}}/content/resources/plato.png\" width=\"185\" height=\"185\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781645838679-tez8nnrsz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1.GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1.GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781645838679-tez8nnrsz</odePageId>
+      <odeBlockId>block-1781646082496-y32m7uo98</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781645838679-tez8nnrsz</odePageId>
+          <odeBlockId>block-1781646082496-y32m7uo98</odeBlockId>
+          <odeIdeviceId>idevice-1781646082494-jln7tuh1u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las metodologías activas, junto con el uso de herramientas digitales y apoyos visuales, constituyen una respuesta educativa eficaz para favorecer el aprendizaje significativo del alumnado con Trastorno del Espectro Autista <span style="color: #e67e23;">(TEA)</span>. Este enfoque sitúa al alumnado como protagonista de su proceso de aprendizaje, respetando sus ritmos, intereses y necesidades individuales, y promoviendo su participación activa en contextos funcionales y cercanos a su realidad.</p>
+<p>La <span style="color: #e67e23;">utilización de recursos digitales</span> permite ofrecer información de forma visual, estructurada y motivadora, facilitando la comprensión, la comunicación y la adquisición de nuevos aprendizajes. Asimismo, el uso de imágenes, pictogramas, organizadores visuales y secuencias de trabajo favorece la anticipación, reduce la incertidumbre y aumenta la autonomía del alumnado durante las actividades.</p>
+<p>Me complace presentar la situación de aprendizaje «<strong><span style="color: #e67e23;">Aprendamos a comer sano: hábitos de alimentación saludable en alumnado con TEA»,</span></strong> diseñada con el propósito de fomentar hábitos de vida saludables mediante experiencias prácticas y funcionales que permitan transferir los aprendizajes al entorno familiar y comunitario.</p>
+<p>El <span style="color: #e67e23;"><strong>producto final</strong></span> consistirá en la elaboración de un <span style="background-color: #e67e23;">plato de alimentación saludable</span>, a través del cual el alumnado identificará y seleccionará diferentes alimentos, organizándolos para una dieta equilibrada. Para alcanzar este objetivo, se llevarán a cabo actividades manipulativas, experiencias de clasificación de alimentos, juegos de asociación imagen-palabra, análisis de hábitos saludables y pequeñas tareas de investigación adaptadas a sus capacidades.</p>
+<p>Durante el desarrollo del proyecto se emplearán herramientas digitales como <span style="color: #e67e23;"><strong>Canva, Genially, Padlet</strong></span> y vídeos interactivos, así como recursos visuales adaptados mediante pictogramas y secuencias visuales. Estos materiales facilitarán la comprensión de los contenidos, favorecerán la participación activa y potenciarán la competencia digital del alumnado desde una perspectiva inclusiva.</p>
+<p>Todo el proceso se desarrollará en un entorno estructurado, predecible y motivador, donde se fomentará la <span style="color: #e67e23;">comunicación, la autonomía personal y la toma de decisiones</span>. Finalmente, el alumnado presentará su plato saludable explicando, con los apoyos necesarios, los alimentos seleccionados y la importancia de mantener una alimentación equilibrada para cuidar su salud y bienestar.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781646082494-jln7tuh1u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las metodologías activas, junto con el uso de herramientas digitales y apoyos visuales, constituyen una respuesta educativa eficaz para favorecer el aprendizaje significativo del alumnado con Trastorno del Espectro Autista <span style=\"color: #e67e23;\">(TEA)</span>. Este enfoque sitúa al alumnado como protagonista de su proceso de aprendizaje, respetando sus ritmos, intereses y necesidades individuales, y promoviendo su participación activa en contextos funcionales y cercanos a su realidad.</p>\n<p>La <span style=\"color: #e67e23;\">utilización de recursos digitales</span> permite ofrecer información de forma visual, estructurada y motivadora, facilitando la comprensión, la comunicación y la adquisición de nuevos aprendizajes. Asimismo, el uso de imágenes, pictogramas, organizadores visuales y secuencias de trabajo favorece la anticipación, reduce la incertidumbre y aumenta la autonomía del alumnado durante las actividades.</p>\n<p>Me complace presentar la situación de aprendizaje «<strong><span style=\"color: #e67e23;\">Aprendamos a comer sano: hábitos de alimentación saludable en alumnado con TEA»,</span></strong> diseñada con el propósito de fomentar hábitos de vida saludables mediante experiencias prácticas y funcionales que permitan transferir los aprendizajes al entorno familiar y comunitario.</p>\n<p>El <span style=\"color: #e67e23;\"><strong>producto final</strong></span> consistirá en la elaboración de un <span style=\"background-color: #e67e23;\">plato de alimentación saludable</span>, a través del cual el alumnado identificará y seleccionará diferentes alimentos, organizándolos para una dieta equilibrada. Para alcanzar este objetivo, se llevarán a cabo actividades manipulativas, experiencias de clasificación de alimentos, juegos de asociación imagen-palabra, análisis de hábitos saludables y pequeñas tareas de investigación adaptadas a sus capacidades.</p>\n<p>Durante el desarrollo del proyecto se emplearán herramientas digitales como <span style=\"color: #e67e23;\"><strong>Canva, Genially, Padlet</strong></span> y vídeos interactivos, así como recursos visuales adaptados mediante pictogramas y secuencias visuales. Estos materiales facilitarán la comprensión de los contenidos, favorecerán la participación activa y potenciarán la competencia digital del alumnado desde una perspectiva inclusiva.</p>\n<p>Todo el proceso se desarrollará en un entorno estructurado, predecible y motivador, donde se fomentará la <span style=\"color: #e67e23;\">comunicación, la autonomía personal y la toma de decisiones</span>. Finalmente, el alumnado presentará su plato saludable explicando, con los apoyos necesarios, los alimentos seleccionados y la importancia de mantener una alimentación equilibrada para cuidar su salud y bienestar.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781645918806-z5d7y6h2i</odePageId>
+  <odeParentPageId>page-1781645838679-tez8nnrsz</odeParentPageId>
+  <pageName>1.1.Características</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1.Características</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781645918806-z5d7y6h2i</odePageId>
+      <odeBlockId>block-1781646298719-lbmwmok6r</odeBlockId>
+      <blockName>¿Qué vemos aquí?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781645918806-z5d7y6h2i</odePageId>
+          <odeBlockId>block-1781646298719-lbmwmok6r</odeBlockId>
+          <odeIdeviceId>idevice-1781646298717-x3edb9ofu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #2dc26b;"><strong>Título descriptivo: </strong></span>“Aprendemos a comer sano: hábitos de alimentación saludable en alumnado TEA” </p>
+<p><br /><strong><span style="color: #2dc26b;">Centro de interés:</span></strong> La alimentación saludable y la adquisición de hábitos básicos de vida saludable en el alumnado.</p>
+<p><br /><span style="color: #2dc26b;"><strong>Nivel al que va dirigido:</strong></span> Aula TEA con un nivel de competencia curricular de 1º de Educación Primaria.</p>
+<p><br /><strong><span style="color: #2dc26b;">Temporalización:</span></strong> 3- 4 semanas.</p>
+<p><br /><strong><span style="color: #2dc26b;">Materia o materias implicadas:</span></strong> Lengua Castellana y Literatura, Matemáticas, Ciencias Naturales y Ciencias Sociales.</p>
+<p><br /><span style="color: #2dc26b;"><strong>Idioma:</strong></span> Español.</p>
+<p><br /><span style="color: #2dc26b;"><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje: </strong></span>Este proyecto tiene como finalidad que el alumnado conozca y desarrolle hábitos relacionados con la alimentación saludable, partiendo de situaciones cercanas a su vida cotidiana.</p>
+<p>A través de actividades manipulativas, visuales y estructuradas (fundamentales en alumnado TEA), el alumnado trabajará:</p>
+<ul>
+<li>Identificación de alimentos saludables y no saludables</li>
+<li>Clasificación de alimentos</li>
+<li>Elección de opciones adecuadas en situaciones cotidianas</li>
+<li>Desarrollo de habilidades comunicativas funcionales (pedir, elegir, expresar gustos)</li>
+<li>Conceptos matemáticos básicos (conteo, clasificación, seriación)<br />Además, se incorporarán actividades digitales sencillas y guiadas como apoyo al aprendizaje, tales como:</li>
+<li>Uso de la pizarra digital para clasificar alimentos</li>
+<li>Visionado de vídeos cortos sobre alimentación</li>
+<li>Juegos interactivos de asociación</li>
+<li>Elaboración guiada de una actividad digital simple</li>
+</ul>
+<p>El proyecto culminará con un producto final: “Mi plato saludable” (en formato manipulativo y/o digital adaptado)</p>
+<p><strong><span style="color: #2dc26b;">Justificación</span></strong></p>
+<p>El presente proyecto se fundamenta en las conclusiones obtenidas a partir de la rutina de pensamiento realizada en la tarea inicial, en la que se evidenció que el alumnado reconoce algunos alimentos de su entorno cercano, pero presenta dificultades para diferenciar entre aquellos que son saludables y los que no lo son. Asimismo, se observó un alto interés hacia actividades relacionadas con la vida cotidiana, especialmente aquellas vinculadas a la comida, así como una mayor motivación ante estímulos visuales y tecnológicos.</p>
+<p>A partir de este análisis, se selecciona la alimentación saludable como centro de interés por tratarse de un contenido altamente funcional, significativo y transferible a su vida diaria, favoreciendo la adquisición de hábitos básicos que contribuyen a su desarrollo personal y social. En el contexto de un aula específica TEA, este tipo de aprendizajes cobra especial relevancia, ya que permite trabajar aspectos clave como la autonomía, la toma de decisiones y la generalización de aprendizajes en contextos naturales (hogar, comedor escolar, supermercado).</p>
+<p>El diseño del proyecto tiene en cuenta las características del alumnado con Trastorno del Espectro Autista, incorporando estrategias metodológicas basadas en la estructuración del entorno, la anticipación de tareas, el uso de apoyos visuales y la repetición de rutinas, elementos esenciales para reducir la incertidumbre y favorecer la comprensión. En este sentido, se integran principios del enfoque TEACCH y se priorizan actividades manipulativas y visuales que faciliten el acceso al aprendizaje.</p>
+<p>Asimismo, el proyecto se apoya en los principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo múltiples formas de representación de la información (imágenes, pictogramas, vídeos), de acción y expresión (manipulación, selección, interacción) y de implicación (actividades motivadoras y conectadas con sus intereses). De este modo, se garantiza una respuesta educativa inclusiva que atiende a la diversidad del alumnado.</p>
+<p>Por otra parte, se incorpora la competencia digital de forma transversal y adaptada, utilizando herramientas digitales como apoyo al proceso de enseñanza-aprendizaje. Estas se emplean de manera guiada y con una finalidad pedagógica clara, permitiendo reforzar los contenidos trabajados mediante actividades interactivas, visualización de recursos audiovisuales y elaboración de producciones sencillas. Esta integración contribuye no solo a aumentar la motivación, sino también a iniciar al alumnado en el uso funcional y seguro de la tecnología.</p>
+<p>Finalmente, este proyecto responde a la necesidad de promover aprendizajes significativos y competenciales, conectados con la realidad del alumnado, favoreciendo su participación activa en el proceso de enseñanza-aprendizaje y contribuyendo al desarrollo de habilidades esenciales para su vida diaria.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781646298717-x3edb9ofu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #2dc26b;\"><strong>Título descriptivo: </strong></span>“Aprendemos a comer sano: hábitos de alimentación saludable en alumnado TEA” </p>\n<p><br /><strong><span style=\"color: #2dc26b;\">Centro de interés:</span></strong> La alimentación saludable y la adquisición de hábitos básicos de vida saludable en el alumnado.</p>\n<p><br /><span style=\"color: #2dc26b;\"><strong>Nivel al que va dirigido:</strong></span> Aula TEA con un nivel de competencia curricular de 1º de Educación Primaria.</p>\n<p><br /><strong><span style=\"color: #2dc26b;\">Temporalización:</span></strong> 3- 4 semanas.</p>\n<p><br /><strong><span style=\"color: #2dc26b;\">Materia o materias implicadas:</span></strong> Lengua Castellana y Literatura, Matemáticas, Ciencias Naturales y Ciencias Sociales.</p>\n<p><br /><span style=\"color: #2dc26b;\"><strong>Idioma:</strong></span> Español.</p>\n<p><br /><span style=\"color: #2dc26b;\"><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje: </strong></span>Este proyecto tiene como finalidad que el alumnado conozca y desarrolle hábitos relacionados con la alimentación saludable, partiendo de situaciones cercanas a su vida cotidiana.</p>\n<p>A través de actividades manipulativas, visuales y estructuradas (fundamentales en alumnado TEA), el alumnado trabajará:</p>\n<ul>\n<li>Identificación de alimentos saludables y no saludables</li>\n<li>Clasificación de alimentos</li>\n<li>Elección de opciones adecuadas en situaciones cotidianas</li>\n<li>Desarrollo de habilidades comunicativas funcionales (pedir, elegir, expresar gustos)</li>\n<li>Conceptos matemáticos básicos (conteo, clasificación, seriación)<br />Además, se incorporarán actividades digitales sencillas y guiadas como apoyo al aprendizaje, tales como:</li>\n<li>Uso de la pizarra digital para clasificar alimentos</li>\n<li>Visionado de vídeos cortos sobre alimentación</li>\n<li>Juegos interactivos de asociación</li>\n<li>Elaboración guiada de una actividad digital simple</li>\n</ul>\n<p>El proyecto culminará con un producto final: “Mi plato saludable” (en formato manipulativo y/o digital adaptado)</p>\n<p><strong><span style=\"color: #2dc26b;\">Justificación</span></strong></p>\n<p>El presente proyecto se fundamenta en las conclusiones obtenidas a partir de la rutina de pensamiento realizada en la tarea inicial, en la que se evidenció que el alumnado reconoce algunos alimentos de su entorno cercano, pero presenta dificultades para diferenciar entre aquellos que son saludables y los que no lo son. Asimismo, se observó un alto interés hacia actividades relacionadas con la vida cotidiana, especialmente aquellas vinculadas a la comida, así como una mayor motivación ante estímulos visuales y tecnológicos.</p>\n<p>A partir de este análisis, se selecciona la alimentación saludable como centro de interés por tratarse de un contenido altamente funcional, significativo y transferible a su vida diaria, favoreciendo la adquisición de hábitos básicos que contribuyen a su desarrollo personal y social. En el contexto de un aula específica TEA, este tipo de aprendizajes cobra especial relevancia, ya que permite trabajar aspectos clave como la autonomía, la toma de decisiones y la generalización de aprendizajes en contextos naturales (hogar, comedor escolar, supermercado).</p>\n<p>El diseño del proyecto tiene en cuenta las características del alumnado con Trastorno del Espectro Autista, incorporando estrategias metodológicas basadas en la estructuración del entorno, la anticipación de tareas, el uso de apoyos visuales y la repetición de rutinas, elementos esenciales para reducir la incertidumbre y favorecer la comprensión. En este sentido, se integran principios del enfoque TEACCH y se priorizan actividades manipulativas y visuales que faciliten el acceso al aprendizaje.</p>\n<p>Asimismo, el proyecto se apoya en los principios del Diseño Universal para el Aprendizaje (DUA), ofreciendo múltiples formas de representación de la información (imágenes, pictogramas, vídeos), de acción y expresión (manipulación, selección, interacción) y de implicación (actividades motivadoras y conectadas con sus intereses). De este modo, se garantiza una respuesta educativa inclusiva que atiende a la diversidad del alumnado.</p>\n<p>Por otra parte, se incorpora la competencia digital de forma transversal y adaptada, utilizando herramientas digitales como apoyo al proceso de enseñanza-aprendizaje. Estas se emplean de manera guiada y con una finalidad pedagógica clara, permitiendo reforzar los contenidos trabajados mediante actividades interactivas, visualización de recursos audiovisuales y elaboración de producciones sencillas. Esta integración contribuye no solo a aumentar la motivación, sino también a iniciar al alumnado en el uso funcional y seguro de la tecnología.</p>\n<p>Finalmente, este proyecto responde a la necesidad de promover aprendizajes significativos y competenciales, conectados con la realidad del alumnado, favoreciendo su participación activa en el proceso de enseñanza-aprendizaje y contribuyendo al desarrollo de habilidades esenciales para su vida diaria.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781646546872-r4wg81at5</odePageId>
+  <odeParentPageId>page-1781645838679-tez8nnrsz</odeParentPageId>
+  <pageName>1.2. Producto final</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2. Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781646546872-r4wg81at5</odePageId>
+      <odeBlockId>block-1781804631511-z9p84xod2</odeBlockId>
+      <blockName>Creación de un recetario con platos saludables</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781646546872-r4wg81at5</odePageId>
+          <odeBlockId>block-1781804631511-z9p84xod2</odeBlockId>
+          <odeIdeviceId>idevice-1781804631503-hhwvv0sug</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final propuesto para esta situación de aprendizaje es la<strong> <span style="background-color: #f1c40f;">elaboración y diseño </span></strong>utilizando la herramienta digital <span style="background-color: #f1c40f;"><em>Genially,</em> </span>los alumnos del Aula TEA crearán un de forma cooperativa un <strong><span style="color: #f1c40f;">recetario digital donde se incluyan platos de alimentación saludable</span></strong>. Cada alumno/a aportará ideas sobre ingredientes, pasos de preparación y hábitos de alimentación, que se integrarán en un producto visual e interactivo. </p>
+<p>Para ello utilizarán pictogramas para representar ingredientes y pasos de las recetas, audio para leer las instrucciones y reforzar la comprensión y animaciones y colores que favoreciendo así la atención y motivación del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781804631503-hhwvv0sug","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final propuesto para esta situación de aprendizaje es la<strong> <span style=\"background-color: #f1c40f;\">elaboración y diseño </span></strong>utilizando la herramienta digital <span style=\"background-color: #f1c40f;\"><em>Genially,</em> </span>los alumnos del Aula TEA crearán un de forma cooperativa un <strong><span style=\"color: #f1c40f;\">recetario digital donde se incluyan platos de alimentación saludable</span></strong>. Cada alumno/a aportará ideas sobre ingredientes, pasos de preparación y hábitos de alimentación, que se integrarán en un producto visual e interactivo. </p>\n<p>Para ello utilizarán pictogramas para representar ingredientes y pasos de las recetas, audio para leer las instrucciones y reforzar la comprensión y animaciones y colores que favoreciendo así la atención y motivación del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781805388448-ap2zotxm4</odePageId>
+  <odeParentPageId>page-1781645838679-tez8nnrsz</odeParentPageId>
+  <pageName>1.3. Criterios de evaluación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.3. Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781805388448-ap2zotxm4</odePageId>
+      <odeBlockId>block-1781806344667-5od4wlx6r</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781805388448-ap2zotxm4</odePageId>
+          <odeBlockId>block-1781806344667-5od4wlx6r</odeBlockId>
+          <odeIdeviceId>idevice-1781806344664-0zptc36q2</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1flpPIiXVdf7KnksUxfeiRqKMDNuSphdRJQLuN2JMQQs/edit?usp=sharing " size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780766585935-1rropv01b</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. SECUENCIA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. SECUENCIA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. SECUENCIA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780766585935-1rropv01b</odePageId>
+      <odeBlockId>block-1781806787027-j0o5v4h5z</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780766585935-1rropv01b</odePageId>
+          <odeBlockId>block-1781806787027-j0o5v4h5z</odeBlockId>
+          <odeIdeviceId>idevice-1781806787020-5lg51ku9f</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1781806787020-5lg51ku9f" title="" href="{{context_path}}/content/resources/Gráfico Línea temporal Fechas Iconos Corporativo Profesional Colorido Multicolor.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Gráfico Línea temporal Fechas Iconos Corporativo Profesional Colorido Multicolor.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781806787020-5lg51ku9f","img_0":{"img":"blob:app://localhost/faa1b7e3-e88a-439f-9bc4-3e8f3933abc0","thumbnail":"blob:app://localhost/faa1b7e3-e88a-439f-9bc4-3e8f3933abc0","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781806857307-jyw8xt255</odePageId>
+  <odeParentPageId>page-1780766585935-1rropv01b</odeParentPageId>
+  <pageName>2.1. Tareas previas</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1. Tareas previas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.1. Tareas previas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781806857307-jyw8xt255</odePageId>
+      <odeBlockId>block-1781806961232-kwbetgjyx</odeBlockId>
+      <blockName>¿Qué vamos a hacer?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781806857307-jyw8xt255</odePageId>
+          <odeBlockId>block-1781806961232-kwbetgjyx</odeBlockId>
+          <odeIdeviceId>idevice-1781806961231-9klefoty3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado del Aula TEA va a trabajar sobre la importancia de la alimentación saludable en nuestro día a día. Para ello irán realizando tareas poco a poco hasta llegar al producto final: recetario con platos de alimentación saludable.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781806961231-9klefoty3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado del Aula TEA va a trabajar sobre la importancia de la alimentación saludable en nuestro día a día. Para ello irán realizando tareas poco a poco hasta llegar al producto final: recetario con platos de alimentación saludable.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1781806857307-jyw8xt255</odePageId>
+      <odeBlockId>block-1781817484704-s83nh8hr6</odeBlockId>
+      <blockName>Sesión 1: Vídeo Alimentación Saludable</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781806857307-jyw8xt255</odePageId>
+          <odeBlockId>block-1781817484704-s83nh8hr6</odeBlockId>
+          <odeIdeviceId>idevice-1781817484698-hd0qgv1e0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #b96ad9;"><strong>Fecha:</strong></span> 3 de noviembre</p>
+<p><span style="color: #b96ad9;"><strong>Descripción:</strong></span> Presentación de la Situación de Aprendizaje mediante el visionado de un vídeo sobre hábitos de alimentación saludable. Posteriormente se realiza una conversación guiada para activar conocimientos previos sobre los alimentos que consumen diariamente, diferenciando aquellos beneficiosos para la salud. Se plantea el reto final de la unidad.</p>
+<p><span style="color: #b96ad9;"><strong>Agrupamiento:</strong></span> Gran grupo.<br /><span style="color: #b96ad9;"><strong>Tiempo</strong></span>: 45-60 minutos.<br /><span style="color: #b96ad9;"><strong>Herramientas digitales: </strong></span>Pizarra digital interactiva y YouTube.<br /><span style="color: #b96ad9;"><strong>Espacio: </strong></span>Aula TEA.<br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781817484698-hd0qgv1e0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #b96ad9;\"><strong>Fecha:</strong></span> 3 de noviembre</p>\n<p><span style=\"color: #b96ad9;\"><strong>Descripción:</strong></span> Presentación de la Situación de Aprendizaje mediante el visionado de un vídeo sobre hábitos de alimentación saludable. Posteriormente se realiza una conversación guiada para activar conocimientos previos sobre los alimentos que consumen diariamente, diferenciando aquellos beneficiosos para la salud. Se plantea el reto final de la unidad.</p>\n<p><span style=\"color: #b96ad9;\"><strong>Agrupamiento:</strong></span> Gran grupo.<br /><span style=\"color: #b96ad9;\"><strong>Tiempo</strong></span>: 45-60 minutos.<br /><span style=\"color: #b96ad9;\"><strong>Herramientas digitales: </strong></span>Pizarra digital interactiva y YouTube.<br /><span style=\"color: #b96ad9;\"><strong>Espacio: </strong></span>Aula TEA.<br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1781806857307-jyw8xt255</odePageId>
+      <odeBlockId>block-1781883572846-lbkbu6n5m</odeBlockId>
+      <blockName>Sesión 2: Clasificamos alimentos</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781806857307-jyw8xt255</odePageId>
+          <odeBlockId>block-1781883572846-lbkbu6n5m</odeBlockId>
+          <odeIdeviceId>idevice-1781883572842-zp86okf3r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #b96ad9;"><strong>Fecha: </strong></span>5 de noviembre</p>
+<p><span style="color: #b96ad9;"><strong>Descripción:</strong></span> Los alumnos clasifican imágenes de alimentos en dos categorías: saludables y no saludables. Se realizan actividades interactivas para reforzar la identificación de hábitos alimenticios adecuados, fomentando la participación y la argumentación de sus elecciones.</p>
+<p><span style="color: #b96ad9;"><strong>Agrupamiento:</strong></span> Pequeño grupo.<br /><span style="color: #b96ad9;"><strong>Tiempo:</strong></span> 55-60 minutos.<br /><span style="color: #b96ad9;"><strong>Herramientas digitales: </strong></span>Tablet y Wordwall.<br /><span style="color: #b96ad9;"><strong>Espacio:</strong></span> Aula TEA.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781883572842-zp86okf3r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #b96ad9;\"><strong>Fecha: </strong></span>5 de noviembre</p>\n<p><span style=\"color: #b96ad9;\"><strong>Descripción:</strong></span> Los alumnos clasifican imágenes de alimentos en dos categorías: saludables y no saludables. Se realizan actividades interactivas para reforzar la identificación de hábitos alimenticios adecuados, fomentando la participación y la argumentación de sus elecciones.</p>\n<p><span style=\"color: #b96ad9;\"><strong>Agrupamiento:</strong></span> Pequeño grupo.<br /><span style=\"color: #b96ad9;\"><strong>Tiempo:</strong></span> 55-60 minutos.<br /><span style=\"color: #b96ad9;\"><strong>Herramientas digitales: </strong></span>Tablet y Wordwall.<br /><span style=\"color: #b96ad9;\"><strong>Espacio:</strong></span> Aula TEA.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1781806857307-jyw8xt255</odePageId>
+      <odeBlockId>block-1781883689377-nwpvrrf2p</odeBlockId>
+      <blockName>Sesión 3: Recetario saludable</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781806857307-jyw8xt255</odePageId>
+          <odeBlockId>block-1781883689377-nwpvrrf2p</odeBlockId>
+          <odeIdeviceId>idevice-1781883689375-mftbr1t9w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #b96ad9;"><strong>Fecha:</strong></span> 7 de noviembre</p>
+<p><span style="color: #b96ad9;"><strong>Descripción:</strong></span> Lectura adaptada de recetas sencillas y saludables. El alumnado responde preguntas de comprensión y analiza los ingredientes utilizados. Se emplean apoyos visuales y pictográficos para facilitar el acceso a la información y la comprensión lectora.</p>
+<p><span style="color: #b96ad9;"><strong>Agrupamiento: </strong></span>Individual.<br /><span style="color: #b96ad9;"><strong>Tiempo</strong></span>: 45-60 minutos.<br /><span style="color: #b96ad9;"><strong>Herramientas digitales</strong></span>: Tablet y Pictotraductor.<br /><span style="color: #b96ad9;"><strong>Espacio:</strong></span> Aula TEA.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781883689375-mftbr1t9w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #b96ad9;\"><strong>Fecha:</strong></span> 7 de noviembre</p>\n<p><span style=\"color: #b96ad9;\"><strong>Descripción:</strong></span> Lectura adaptada de recetas sencillas y saludables. El alumnado responde preguntas de comprensión y analiza los ingredientes utilizados. Se emplean apoyos visuales y pictográficos para facilitar el acceso a la información y la comprensión lectora.</p>\n<p><span style=\"color: #b96ad9;\"><strong>Agrupamiento: </strong></span>Individual.<br /><span style=\"color: #b96ad9;\"><strong>Tiempo</strong></span>: 45-60 minutos.<br /><span style=\"color: #b96ad9;\"><strong>Herramientas digitales</strong></span>: Tablet y Pictotraductor.<br /><span style=\"color: #b96ad9;\"><strong>Espacio:</strong></span> Aula TEA.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1781806857307-jyw8xt255</odePageId>
+      <odeBlockId>block-1781883798471-unjl8e4kp</odeBlockId>
+      <blockName>Sesión 4: Clasificamos frutas y verduras</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781806857307-jyw8xt255</odePageId>
+          <odeBlockId>block-1781883798471-unjl8e4kp</odeBlockId>
+          <odeIdeviceId>idevice-1781883798469-h7k22d5iy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #b96ad9;"><strong>Fecha:</strong></span> 12 de noviembre</p>
+<p><span style="color: #b96ad9;"><strong>Descripción: </strong></span>Actividad manipulativa y digital para identificar y clasificar frutas y verduras según diferentes criterios (color, origen, estación o grupo alimenticio). Se promueve el diálogo entre iguales y la toma de decisiones conjunta.</p>
+<p><span style="color: #b96ad9;"><strong>Agrupamiento: </strong></span>Pequeño grupo.<br /><span style="color: #b96ad9;"><strong>Tiempo:</strong></span> 45-60 minutos.<br /><span style="color: #b96ad9;"><strong>Herramientas digitales: </strong></span>Tablet y Wordwall.<br /><span style="color: #b96ad9;"><strong>Espacio: </strong></span>Aula TEA.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781883798469-h7k22d5iy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #b96ad9;\"><strong>Fecha:</strong></span> 12 de noviembre</p>\n<p><span style=\"color: #b96ad9;\"><strong>Descripción: </strong></span>Actividad manipulativa y digital para identificar y clasificar frutas y verduras según diferentes criterios (color, origen, estación o grupo alimenticio). Se promueve el diálogo entre iguales y la toma de decisiones conjunta.</p>\n<p><span style=\"color: #b96ad9;\"><strong>Agrupamiento: </strong></span>Pequeño grupo.<br /><span style=\"color: #b96ad9;\"><strong>Tiempo:</strong></span> 45-60 minutos.<br /><span style=\"color: #b96ad9;\"><strong>Herramientas digitales: </strong></span>Tablet y Wordwall.<br /><span style=\"color: #b96ad9;\"><strong>Espacio: </strong></span>Aula TEA.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1781806857307-jyw8xt255</odePageId>
+      <odeBlockId>block-1781885146393-hk6ppdm1j</odeBlockId>
+      <blockName>Sesión 5: Vídeo receta</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781806857307-jyw8xt255</odePageId>
+          <odeBlockId>block-1781885146393-hk6ppdm1j</odeBlockId>
+          <odeIdeviceId>idevice-1781885146389-626uurad6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #843fa1;"><strong>Fecha: </strong></span>14 de noviembre</p>
+<p><span style="color: #843fa1;"><strong>Descripción:</strong></span> Visionado de una vídeo-receta saludable para identificar los pasos necesarios en la elaboración de un plato. El alumnado secuencia las acciones observadas y comenta los ingredientes y utensilios utilizados.</p>
+<p><span style="color: #843fa1;"><strong>Agrupamiento: </strong></span>Gran grupo.<br /><span style="color: #843fa1;"><strong>Tiempo:</strong></span> 45-60 minutos.<br /><span style="color: #843fa1;"><strong>Herramientas digitales: </strong></span> Pizarra digital interactiva y YouTube.</p>
+<p><span style="color: #843fa1;"><strong>Espacio: </strong></span>Aula TEA</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781885146389-626uurad6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #843fa1;\"><strong>Fecha: </strong></span>14 de noviembre</p>\n<p><span style=\"color: #843fa1;\"><strong>Descripción:</strong></span> Visionado de una vídeo-receta saludable para identificar los pasos necesarios en la elaboración de un plato. El alumnado secuencia las acciones observadas y comenta los ingredientes y utensilios utilizados.</p>\n<p><span style=\"color: #843fa1;\"><strong>Agrupamiento: </strong></span>Gran grupo.<br /><span style=\"color: #843fa1;\"><strong>Tiempo:</strong></span> 45-60 minutos.<br /><span style=\"color: #843fa1;\"><strong>Herramientas digitales: </strong></span> Pizarra digital interactiva y YouTube.</p>\n<p><span style=\"color: #843fa1;\"><strong>Espacio: </strong></span>Aula TEA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1781806857307-jyw8xt255</odePageId>
+      <odeBlockId>block-1781885378072-v6yjvre5t</odeBlockId>
+      <blockName>Sesión 6: A cocinar</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781806857307-jyw8xt255</odePageId>
+          <odeBlockId>block-1781885378072-v6yjvre5t</odeBlockId>
+          <odeIdeviceId>idevice-1781885378070-rh632vjry</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="color: #b96ad9;"><strong>Fecha: </strong><span style="color: #000000;">16 de noviembre</span></span></p>
+<p><span style="color: #b96ad9;"><strong>Descripción: </strong></span>Elaboración práctica de una receta saludable siguiendo los pasos trabajados previamente. Los alumnos utilizan apoyos visuales y pictogramas para favorecer la autonomía durante el proceso. Finalmente se realiza una degustación y valoración de la actividad.</p>
+<p><span style="color: #b96ad9;"><strong>Agrupamiento: </strong></span>Pequeño grupo.<br /><span style="color: #b96ad9;"><strong>Tiempo: </strong></span>60 minutos.<br /><span style="color: #b96ad9;"><strong>Herramientas digitales</strong></span>: Pictotraductor.<br /><span style="color: #b96ad9;"><strong>Espacio:</strong></span> Cocina del aula específica.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781885378070-rh632vjry","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"color: #b96ad9;\"><strong>Fecha: </strong><span style=\"color: #000000;\">16 de noviembre</span></span></p>\n<p><span style=\"color: #b96ad9;\"><strong>Descripción: </strong></span>Elaboración práctica de una receta saludable siguiendo los pasos trabajados previamente. Los alumnos utilizan apoyos visuales y pictogramas para favorecer la autonomía durante el proceso. Finalmente se realiza una degustación y valoración de la actividad.</p>\n<p><span style=\"color: #b96ad9;\"><strong>Agrupamiento: </strong></span>Pequeño grupo.<br /><span style=\"color: #b96ad9;\"><strong>Tiempo: </strong></span>60 minutos.<br /><span style=\"color: #b96ad9;\"><strong>Herramientas digitales</strong></span>: Pictotraductor.<br /><span style=\"color: #b96ad9;\"><strong>Espacio:</strong></span> Cocina del aula específica.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781806889938-bf12l0w5z</odePageId>
+  <odeParentPageId>page-1780766585935-1rropv01b</odeParentPageId>
+  <pageName>2.2. Situación final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.2. Situación final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.2. Situación final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781806889938-bf12l0w5z</odePageId>
+      <odeBlockId>block-1781888033855-f7sp4v0iy</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781806889938-bf12l0w5z</odePageId>
+          <odeBlockId>block-1781888033855-f7sp4v0iy</odeBlockId>
+          <odeIdeviceId>idevice-1781888033854-f76n1amci</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Producto final: </strong>Recetario con platos de alimentación saludable.</p>
+<p><strong>Descripción:</strong> En pequeños grupos con las tareas previas realizadas realizarán una receta del recetario común en la cocina del Aula Específica.</p>
+<p><strong>Agrupamiento:</strong> Pequeño grupo<br /></p>
+<p><strong>Tiempo:</strong> 60 minutos</p>
+<p><strong>Espacio</strong>: Cocina Aula Específica</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781888033854-f76n1amci","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Producto final: </strong>Recetario con platos de alimentación saludable.</p>\n<p><strong>Descripción:</strong> En pequeños grupos con las tareas previas realizadas realizarán una receta del recetario común en la cocina del Aula Específica.</p>\n<p><strong>Agrupamiento:</strong> Pequeño grupo<br /></p>\n<p><strong>Tiempo:</strong> 60 minutos</p>\n<p><strong>Espacio</strong>: Cocina Aula Específica</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781806909579-wgvmcyw7e</odePageId>
+  <odeParentPageId>page-1780766585935-1rropv01b</odeParentPageId>
+  <pageName>2.3. Conclusión</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.3. Conclusión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.3. Conclusión</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781806909579-wgvmcyw7e</odePageId>
+      <odeBlockId>block-1781888194424-ze7xk6n40</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781806909579-wgvmcyw7e</odePageId>
+          <odeBlockId>block-1781888194424-ze7xk6n40</odeBlockId>
+          <odeIdeviceId>idevice-1781888194423-u1pp912yp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La realización del producto final ha permitido al alumnado poner en práctica los conocimientos adquiridos sobre la alimentación saludable de forma funcional y significativa. A través de la elaboración de una receta saludable, los estudiantes han identificado alimentos beneficiosos para la salud, seguido secuencias de instrucciones, desarrollado habilidades de autonomía personal y reforzado la comunicación y el trabajo cooperativo. Además, la experiencia práctica ha favorecido su motivación e implicación en el aprendizaje, contribuyendo a la adquisición de hábitos alimentarios saludables que pueden trasladar a su vida cotidiana. En conjunto, la situación de aprendizaje ha resultado una experiencia enriquecedora que ha promovido aprendizajes útiles, inclusivos y contextualizados.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781888194423-u1pp912yp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La realización del producto final ha permitido al alumnado poner en práctica los conocimientos adquiridos sobre la alimentación saludable de forma funcional y significativa. A través de la elaboración de una receta saludable, los estudiantes han identificado alimentos beneficiosos para la salud, seguido secuencias de instrucciones, desarrollado habilidades de autonomía personal y reforzado la comunicación y el trabajo cooperativo. Además, la experiencia práctica ha favorecido su motivación e implicación en el aprendizaje, contribuyendo a la adquisición de hábitos alimentarios saludables que pueden trasladar a su vida cotidiana. En conjunto, la situación de aprendizaje ha resultado una experiencia enriquecedora que ha promovido aprendizajes útiles, inclusivos y contextualizados.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781629903151-lzoyo0xim</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. MEDIDAS DE ATENCIÓN A LA DIVERSIDAD</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. MEDIDAS DE ATENCIÓN A LA DIVERSIDAD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. MEDIDAS DE ATENCIÓN A LA DIVERSIDAD</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781629903151-lzoyo0xim</odePageId>
+      <odeBlockId>block-1781886271250-gfy5qr177</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781629903151-lzoyo0xim</odePageId>
+          <odeBlockId>block-1781886271250-gfy5qr177</odeBlockId>
+          <odeIdeviceId>idevice-1781886271248-n1ojqb4ur</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La atención a la  la diversidad y la implementación del Diseño Universal para el Aprendizaje (DUA) son elementos clave en cualquier situación de aprendizaje, especialmente en el Aula TEA. Ambos enfoques tienen como objetivo garantizar una educación equitativa inclusiva y de calidad para todo el alumnado, independientemente de sus características personales, sociales o educativas.<br />En esta situación de aprendizaje se parte de un grupo heterogéneo  con distintos niveles de competencia digital, experiencias previas de aprendizaje y ritmos de trabajo distintos. Para atender esta diversidad se ha tenido en cuenta un planificación flexible que permita al alumnado participar activamente y desarrollar sus competencias desde sus posibilidades.</p>
+<p>Para ello se han utilizado las siguientes estrategias:</p>
+<p>- Presentación de la información en múltiples formatos.</p>
+<p>- Diversificación de las formas de expresión y participación.</p>
+<p>- Selección de herramientas digitales sencillas, accesibles e intuitivas como Canva o Padlet.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781886271248-n1ojqb4ur","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La atención a la  la diversidad y la implementación del Diseño Universal para el Aprendizaje (DUA) son elementos clave en cualquier situación de aprendizaje, especialmente en el Aula TEA. Ambos enfoques tienen como objetivo garantizar una educación equitativa inclusiva y de calidad para todo el alumnado, independientemente de sus características personales, sociales o educativas.<br />En esta situación de aprendizaje se parte de un grupo heterogéneo  con distintos niveles de competencia digital, experiencias previas de aprendizaje y ritmos de trabajo distintos. Para atender esta diversidad se ha tenido en cuenta un planificación flexible que permita al alumnado participar activamente y desarrollar sus competencias desde sus posibilidades.</p>\n<p>Para ello se han utilizado las siguientes estrategias:</p>\n<p>- Presentación de la información en múltiples formatos.</p>\n<p>- Diversificación de las formas de expresión y participación.</p>\n<p>- Selección de herramientas digitales sencillas, accesibles e intuitivas como Canva o Padlet.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780767305541-c1jcwjist</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4.CURACIÓN DE CONTENIDOS</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.CURACIÓN DE CONTENIDOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780767305541-c1jcwjist</odePageId>
+      <odeBlockId>block-1780767307314-nik1imxdd</odeBlockId>
+      <blockName>¿Dónde puedo buscar?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780767305541-c1jcwjist</odePageId>
+          <odeBlockId>block-1780767307314-nik1imxdd</odeBlockId>
+          <odeIdeviceId>idevice-1780767307312-c2rgs6ssx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para guiar el trabajo he creado un Padlet donde aparecen vídeos y material que le ayudaran en todas las tareas propuestas.</p>
+<p><a href="https://padlet.com/rgalalv588/aula-tea-8ttd0sbe6c3nbltn" title="PADLET" rel="author">PADLET</a> </p>
+<p>Por otro lado he creado un Symbaloo como docente donde aparecen recursos que suelo utilizar en mi dia a dia.</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAA1_c_k4AA41_W3fphA==" title="">Symbaloo</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780767307312-c2rgs6ssx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para guiar el trabajo he creado un Padlet donde aparecen vídeos y material que le ayudaran en todas las tareas propuestas.</p>\n<p><a href=\"https://padlet.com/rgalalv588/aula-tea-8ttd0sbe6c3nbltn\" title=\"PADLET\" rel=\"author\">PADLET</a> </p>\n<p>Por otro lado he creado un Symbaloo como docente donde aparecen recursos que suelo utilizar en mi dia a dia.</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAA1_c_k4AA41_W3fphA==\" title=\"\">Symbaloo</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780762634066-vay5mgpah</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. VALORACIÓN DE LO APRENDIDO</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. VALORACIÓN DE LO APRENDIDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. VALORACIÓN DE LO APRENDIDO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780762634066-vay5mgpah</odePageId>
+      <odeBlockId>block-1781887002848-elybw5ts5</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780762634066-vay5mgpah</odePageId>
+          <odeBlockId>block-1781887002848-elybw5ts5</odeBlockId>
+          <odeIdeviceId>idevice-1781887002846-cv44dwsrh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El primer instrumento de evaluación será una <span style="color: #169179;"><strong>rúbrica de evaluación</strong></span> que se utilizará de manera continua a lo largo del desarrollo de toda la situación de aprendizaje. No se hará por tanto un uso exclusivo y único de la misma al finalizar la SDA, sino también durante el proceso, con el objetivo de realizar una evaluación formativa que permita ofrecer retroalimentación inmediata y ajustar los apoyos educativos según las necesidades del alumnado. En lo que a la recogida de datos respecta, se hará principalmente mediante la observación directa y sistemática del alumnado durante las actividades individuales, en pareja y en pequeño grupo</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781887002846-cv44dwsrh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El primer instrumento de evaluación será una <span style=\"color: #169179;\"><strong>rúbrica de evaluación</strong></span> que se utilizará de manera continua a lo largo del desarrollo de toda la situación de aprendizaje. No se hará por tanto un uso exclusivo y único de la misma al finalizar la SDA, sino también durante el proceso, con el objetivo de realizar una evaluación formativa que permita ofrecer retroalimentación inmediata y ajustar los apoyos educativos según las necesidades del alumnado. En lo que a la recogida de datos respecta, se hará principalmente mediante la observación directa y sistemática del alumnado durante las actividades individuales, en pareja y en pequeño grupo</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780762634066-vay5mgpah</odePageId>
+      <odeBlockId>block-1781887171940-3n93esvim</odeBlockId>
+      <blockName>Rúbrica de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780762634066-vay5mgpah</odePageId>
+          <odeBlockId>block-1781887171940-3n93esvim</odeBlockId>
+          <odeIdeviceId>idevice-1781887171937-kvfom66kf</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/1fqfSveke2aMgDBUMShAGdZE3DS-KjDDwHxzP41xhwZk/edit?tab=t.0" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780762634066-vay5mgpah</odePageId>
+      <odeBlockId>block-1781887224326-g2b5yqs3n</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780762634066-vay5mgpah</odePageId>
+          <odeBlockId>block-1781887224326-g2b5yqs3n</odeBlockId>
+          <odeIdeviceId>idevice-1781887224324-97fx9xjko</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El segundo instrumento es una <strong><span style="color: #000000;">lista de cotejo</span></strong> para la tarea: Clasificar alimentos saludables y no saludables. Para obtener los datos, se utilizará la lista de cotejo durante la actividad registrando de forma sistemática si cada criterio se cumple en la producción de los alumnos. La  información recogida permitirá identificar tanto los logros como las dificultades más frecuentes. En cuanto al tratamiento de posibles variables, se tendrá en cuenta la diversidad del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781887224324-97fx9xjko","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El segundo instrumento es una <strong><span style=\"color: #000000;\">lista de cotejo</span></strong> para la tarea: Clasificar alimentos saludables y no saludables. Para obtener los datos, se utilizará la lista de cotejo durante la actividad registrando de forma sistemática si cada criterio se cumple en la producción de los alumnos. La  información recogida permitirá identificar tanto los logros como las dificultades más frecuentes. En cuanto al tratamiento de posibles variables, se tendrá en cuenta la diversidad del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780762634066-vay5mgpah</odePageId>
+      <odeBlockId>block-1781887289326-v4qtb1tr2</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780762634066-vay5mgpah</odePageId>
+          <odeBlockId>block-1781887289326-v4qtb1tr2</odeBlockId>
+          <odeIdeviceId>idevice-1781887289325-3c9zrimky</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1781887289325-3c9zrimky" title="" href="{{context_path}}/content/resources/Sin título.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Sin título.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781887289325-3c9zrimky","img_0":{"img":"{{context_path}}/content/resources/Sin título.png","thumbnail":"{{context_path}}/content/resources/Sin título.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781887562365-owxjcloam</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. CRÉDITOS</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. CRÉDITOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781887562365-owxjcloam</odePageId>
+      <odeBlockId>block-1781887585930-bcahm3p3z</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781887562365-owxjcloam</odePageId>
+          <odeBlockId>block-1781887585930-bcahm3p3z</odeBlockId>
+          <odeIdeviceId>idevice-1781887585929-3zs1uwqf9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.023%; border-style: dotted;">
+<tbody>
+<tr>
+<td style="width: 11.8939%;"><strong>Título</strong></td>
+<td style="width: 88.0843%;"> “Aprendemos a comer sano: hábitos de alimentación saludable en alumnado TEA” </td>
+</tr>
+<tr>
+<td style="width: 11.8939%;"><strong>Descripción</strong></td>
+<td style="width: 88.0843%;">Situación de aprendizaje realizada para la formación docente del curso de Competencia Digital Docente Nivel B2 (CDD-B2). Esta Sda está dirigida al alumnado del Aula TEA.</td>
+</tr>
+<tr>
+<td style="width: 11.8939%;"><span style="color: #000000;"><strong>Autoría</strong></span></td>
+<td style="width: 88.0843%;">Rocío Galdón Álvarez</td>
+</tr>
+<tr>
+<td style="width: 11.8939%;"><strong>Licencia</strong></td>
+<td style="width: 88.0843%;"> creative commons: attributions- share alike 4.0</td>
+</tr>
+</tbody>
+</table>
+<p>Este contenido fue creado con ExeLearning, el editor libre y de fuente abierta diseñado para crear recursos educativos</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781887585929-3zs1uwqf9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.023%; border-style: dotted;\">\n<tbody>\n<tr>\n<td style=\"width: 11.8939%;\"><strong>Título</strong></td>\n<td style=\"width: 88.0843%;\"> “Aprendemos a comer sano: hábitos de alimentación saludable en alumnado TEA” </td>\n</tr>\n<tr>\n<td style=\"width: 11.8939%;\"><strong>Descripción</strong></td>\n<td style=\"width: 88.0843%;\">Situación de aprendizaje realizada para la formación docente del curso de Competencia Digital Docente Nivel B2 (CDD-B2). Esta Sda está dirigida al alumnado del Aula TEA.</td>\n</tr>\n<tr>\n<td style=\"width: 11.8939%;\"><span style=\"color: #000000;\"><strong>Autoría</strong></span></td>\n<td style=\"width: 88.0843%;\">Rocío Galdón Álvarez</td>\n</tr>\n<tr>\n<td style=\"width: 11.8939%;\"><strong>Licencia</strong></td>\n<td style=\"width: 88.0843%;\"> creative commons: attributions- share alike 4.0</td>\n</tr>\n</tbody>\n</table>\n<p>Este contenido fue creado con ExeLearning, el editor libre y de fuente abierta diseñado para crear recursos educativos</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780764572253-jnb03u39t</odePageId>
+  <odeParentPageId>page-1781887562365-owxjcloam</odeParentPageId>
+  <pageName>SEGURIDAD</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SEGURIDAD</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SEGURIDAD</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780764572253-jnb03u39t</odePageId>
+      <odeBlockId>block-1780764580437-d0c686ot4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780764572253-jnb03u39t</odePageId>
+          <odeBlockId>block-1780764580437-d0c686ot4</odeBlockId>
+          <odeIdeviceId>idevice-1780764580435-xa9wa78nr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 800px;">
+<div class="figcaption header"><strong>INFORMACION ALUMNADO PROTECCIÓN DE DATOS</strong></div>
+<img src="{{context_path}}/content/resources/Blue Cute Creative Process Infographic.png" alt="Información relevante sobre seguridad y protección de datos" width="800" height="2000" />
+<figcaption class="figcaption"><span class="author">ROCIO GALDON ALVAREZ</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Aquí encontramos la información dirigida al alumnado sobre protección de datos personales y garantías de derechos digitales</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780764580435-xa9wa78nr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\">\n<div class=\"figcaption header\"><strong>INFORMACION ALUMNADO PROTECCIÓN DE DATOS</strong></div>\n<img src=\"{{context_path}}/content/resources/Blue Cute Creative Process Infographic.png\" alt=\"Información relevante sobre seguridad y protección de datos\" width=\"800\" height=\"2000\" />\n<figcaption class=\"figcaption\"><span class=\"author\">ROCIO GALDON ALVAREZ</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Aquí encontramos la información dirigida al alumnado sobre protección de datos personales y garantías de derechos digitales</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1781888242306-kno8o1iq0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>AUTORÍA</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>AUTORÍA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>AUTORÍA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1781888242306-kno8o1iq0</odePageId>
+      <odeBlockId>block-1781888244307-hmrhnzwge</odeBlockId>
+      <blockName>Autoría y licencia de los recursos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1781888242306-kno8o1iq0</odePageId>
+          <odeBlockId>block-1781888244307-hmrhnzwge</odeBlockId>
+          <odeIdeviceId>idevice-1781888244306-5gk63ic4s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Todas las imágenes empleadas en la elaboración de este proyecto han sido seleccionadas cuidadosamente teniendo en cuenta los principios del dominio público y el uso educativo. Se han utilizado exclusivamente recursos que no están protegidos por derechos de autor o que cuentan con licencias abiertas, permitiendo su uso sin necesidad de solicitar permiso ni realizar pagos al autor original.</p>
+<p>LICENCIA DE DOMINIO PÚBLICO</p>
+<p><img src="{{context_path}}/content/resources/images.png" width="741" height="269" alt="" /></p>
+<p>Autor del proyecto: El diseño y desarrollo del proyecto ha sido realizado por Rocío Galdón Álvarez.</p>
+<p>Imágenes y elementos gráficos.</p>
+<p>- Las imágenes utilizadas en las infografías, cronogramas y otros recursos visuales han sido extraídas de la herramienta Canva que permite su uso a través de plantillas libres de derechos.</p>
+<p>- Los instrumentos de evaluación han sido de elaboración propia y se encuentran en dominio público.</p>
+<p></p>
+<p>Este material educativo ha sido diseñado con el objetivo de ser un Recurso Educativo Abierto (REA), respetando en todo momento la propiedad intelectual y promoviendo el uso responsable de los contenidos digitales. Todas las imágenes empleadas en la elaboración de este proyecto han sido seleccionadas cuidadosamente teniendo en cuenta los principios del dominio público y el uso educativo. Se han utilizado exclusivamente recursos que no están protegidos por derechos de autor o que cuentan con licencias abiertas, permitiendo su uso sin necesidad de solicitar permiso ni realizar pagos al autor original.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781888244306-5gk63ic4s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Todas las imágenes empleadas en la elaboración de este proyecto han sido seleccionadas cuidadosamente teniendo en cuenta los principios del dominio público y el uso educativo. Se han utilizado exclusivamente recursos que no están protegidos por derechos de autor o que cuentan con licencias abiertas, permitiendo su uso sin necesidad de solicitar permiso ni realizar pagos al autor original.</p>\n<p>LICENCIA DE DOMINIO PÚBLICO</p>\n<p><img src=\"{{context_path}}/content/resources/images.png\" width=\"741\" height=\"269\" alt=\"\" /></p>\n<p>Autor del proyecto: El diseño y desarrollo del proyecto ha sido realizado por Rocío Galdón Álvarez.</p>\n<p>Imágenes y elementos gráficos.</p>\n<p>- Las imágenes utilizadas en las infografías, cronogramas y otros recursos visuales han sido extraídas de la herramienta Canva que permite su uso a través de plantillas libres de derechos.</p>\n<p>- Los instrumentos de evaluación han sido de elaboración propia y se encuentran en dominio público.</p>\n<p></p>\n<p>Este material educativo ha sido diseñado con el objetivo de ser un Recurso Educativo Abierto (REA), respetando en todo momento la propiedad intelectual y promoviendo el uso responsable de los contenidos digitales. Todas las imágenes empleadas en la elaboración de este proyecto han sido seleccionadas cuidadosamente teniendo en cuenta los principios del dominio público y el uso educativo. Se han utilizado exclusivamente recursos que no están protegidos por derechos de autor o que cuentan con licencias abiertas, permitiendo su uso sin necesidad de solicitar permiso ni realizar pagos al autor original.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
